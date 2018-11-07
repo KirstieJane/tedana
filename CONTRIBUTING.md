@@ -13,7 +13,7 @@ Already know what you're looking for in this guide? Jump to the following sectio
 * [Joining the conversation](#joining-the-conversation)
 * [Understanding issues, milestones, and project boards](#explaining-issues-milestones-and-project-boards)
 * [Contributing through Github](#contributing-through-github)
-* [Writing in markdown](#writing-in-markdown)
+* [Writing in Markdown](#writing-in-markdown)
 * [Writing in ReStructuredText](#writing-in-restructuredtext)
 * [Making a change](#making-a-change)
 * [Structuring contributions](#style-guide)
