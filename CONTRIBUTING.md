@@ -11,10 +11,10 @@ Here are some [instructions][link_signupinstructions].
 Already know what you're looking for in this guide? Jump to the following sections:
 
 * [Joining the conversation](#joining-the-conversation)
-* [Understanding issues, milestones, and project boards](#explaining-issues-milestones-and-project-boards)
 * [Contributing through Github](#contributing-through-github)
 * [Writing in Markdown](#writing-in-markdown)
 * [Writing in ReStructuredText](#writing-in-restructuredtext)
+* [Understanding issues, milestones, and project boards](#explaining-issues-milestones-and-project-boards)
 * [Making a change](#making-a-change)
 * [Structuring contributions](#style-guide)
 * [Recognizing contributors](#recognizing-contributions)
